@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project: Create a webapp signup page that has a database attached. It also has to be integrated with Facebook’s signup api.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bonus: When logged bring to screen where one can enter their flight and give the app the ability to track it (just show the entry converting into the day and time the plane will land).
